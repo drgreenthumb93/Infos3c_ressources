@@ -2,10 +2,6 @@ Not my list, but I'm going to add things :D
 
 Penetrating Testing/Assessment Workflow & other fun infosec stuff
 
-https://github.com/jivoi/pentest
-
-My feeble attempt to organize (in a somewhat logical fashion) the vast amount of information, tools, resources, tip and tricks surrounding penetration testing, vulnerability assessment, and information security as a whole*
-
 - Reconnaissance
   - Passive/Semi-Passive
     - Tools
@@ -523,3 +519,5 @@ My feeble attempt to organize (in a somewhat logical fashion) the vast amount of
     - https://www.rawhex.com/2016/03/a-guide-to-recognising-backdoors-using-metasploitable-2/
   - Detecting Malicious VBA Macros
     - https://github.com/decalage2/oletools/wiki/mraptor
+  
+  https://github.com/jivoi/pentest
