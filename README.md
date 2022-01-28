@@ -1,3 +1,5 @@
+Not my list, but I'm going to add things :D
+
 Penetrating Testing/Assessment Workflow & other fun infosec stuff
 
 https://github.com/jivoi/pentest
