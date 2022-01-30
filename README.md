@@ -247,6 +247,8 @@ Penetrating Testing/Assessment Workflow & other fun infosec stuff
         - https://enigma0x3.net/2016/11/21/bypassing-application-whitelisting-by-using-rcsi-exe/
       - "Fileless" UAC Bypass
         - https://enigma0x3.net/2016/08/15/fileless-uac-bypass-using-eventvwr-exe-and-registry-hijacking/
+      - UAC_Me
+        - https://github.com/hfiref0x/UACME
       - Download/Execute Code via Command Line
         - https://www.greyhathacker.net/?p=500
     - Reverse Shells
